@@ -6,6 +6,5 @@ import { Component } from '@angular/core';
 })
 
 export class Page1Component  {
-  test: string = 'conflikt';
+  test: string = 'Pies';
 }
-
